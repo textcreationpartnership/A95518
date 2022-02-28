@@ -1,0 +1,767 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ale ale-vated into the ale-titude or, a learned oration before a civill assembly of ale-drinkers, between Paddington and Hogsdon, the 30. of February last, anno millimo quillimo trillimo. By John Taylor.</title>
+            <author>Taylor, John, 1580-1653.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 44 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95518</idno>
+            <idno type="STC">Wing T425</idno>
+            <idno type="STC">Thomason E1251_4</idno>
+            <idno type="STC">ESTC R209179</idno>
+            <idno type="EEBO-CITATION">99868069</idno>
+            <idno type="PROQUEST">99868069</idno>
+            <idno type="VID">169499</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95518)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169499)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 171:E1251[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ale ale-vated into the ale-titude or, a learned oration before a civill assembly of ale-drinkers, between Paddington and Hogsdon, the 30. of February last, anno millimo quillimo trillimo. By John Taylor.</title>
+                  <author>Taylor, John, 1580-1653.</author>
+               </titleStmt>
+               <extent>31, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the yeare, 1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Partly in verse.</note>
+                  <note>The first leaf is blank.</note>
+                  <note>Annotation on Thomason copy: "Marsh. 14 1650"; the 51 in the date is crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Drinking customs --  Early works to 1800.</term>
+               <term>Ale --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169499:1" rendition="simple:additions"/>
+            <p>
+               <hi>ALE</hi> ALE-VATED INTO THE ALE-TITUDE: OR, A Learned Oration before a Civill Aſſembly of ALE-Drinkers, Between <hi>PADDINGTON</hi> and <hi>HOGSDON,</hi> The 30. of <hi>February</hi> laſt, <hi>Anno Milli<g ref="char:EOLhyphen"/>mo Quillimo Trillimo.</hi>
+            </p>
+            <p>By <hi>JOHN TAYLOR.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed in the yeare, 1651.</p>
+         </div>
+      </front>
+      <body>
+         <div type="lecture">
+            <pb facs="tcp:169499:2"/>
+            <pb n="5" facs="tcp:169499:2"/>
+            <head>A <hi>LEARNED LECT<g ref="char:V">Ʋ</g>RE,</hi> IN PRAISE OF ALE.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">A</seg>LE</hi> Beloved Brethren, I am come this day to make an Oration in a Tub, having dranke all the ALE. the Barrell is turned into a Tub, and the Tub transformed into a ſuitable Pulpit: and my hope is, I ſhall pleaſe you better then with a tale of a Tub: my Theame or Text is but 3. Let<g ref="char:EOLhyphen"/>ters, <hi>ALE,</hi> which though they are ſhort and briefe in the pronunciation, yet they are Copious and ample, both in Myſticall, and Intrinſicall Expoſitions, and Hiſtoricall Relations.</p>
+            <pb n="6" facs="tcp:169499:3"/>
+            <p>The Letter <hi>A.</hi> is the Captaine, the Leader, the Conductor, the Duke, Ram, and Generall of the Letters, Words, and Syllables of all the Speeches, Tongues, and Languages, that have been, are, or will be amongſt all Nations and People in the World.</p>
+            <p>And therefore the Letter <hi>A.</hi> is, in the Originall tongue (or Hebrew) called or knowne by the name of <hi>ALEph,</hi> the firſt Syllable being <hi>ALE,</hi> and as an addition of Honour to <hi>A,</hi> and <hi>ALE,</hi> all the following Letters are called <hi>ALEphabet;</hi> and in Greek the firſt Letter is <hi>ALpha.</hi>
+            </p>
+            <p>For further proofe of the Antiquity and high eſtimation of <hi>Ale,</hi> it is Recorded in famous Hiſtories, that many Coun<g ref="char:EOLhyphen"/>treys. Kingdomes, Nations, and Perſons have had their deri<g ref="char:EOLhyphen"/>vations, and names from <hi>A</hi> and <hi>Ale;</hi> for this Land, this very England, was at the firſt called <hi>Albion:</hi> alſo <hi>Albion</hi> was the name of a Giant, one of the ſons of the Sea-god <hi>Neptune,</hi> and the Countrey of <hi>Albania</hi> in <hi>Greece</hi> (other<g ref="char:EOLhyphen"/>wiſe called <hi>Epirus,</hi> whereof the moſt valiant and famous terrour to the Turks, <hi>Scanderbe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> (or <hi>George Caſtriot</hi> was King) had their Originall Epithites from <hi>Ale:</hi> the Maho<g ref="char:EOLhyphen"/>metans (with their abuſing of <hi>Ale</hi> in the right uſe and bre<g ref="char:EOLhyphen"/>wing of it) were madly inſpired with Enthuſiaſtick Rhap<g ref="char:EOLhyphen"/>tures, that our of the Grounds and Dregs of <hi>Ale</hi> they brew<g ref="char:EOLhyphen"/>ed their <hi>Alcaron,</hi> by the ayd of <hi>Alecto</hi> one of the 3 Infer<g ref="char:EOLhyphen"/>nall Furies.</p>
+            <p>The firſt part of any name that begins with <hi>AL,</hi> it doth import that the party or place have been, or may be great and fortunate.</p>
+            <p>For was not <hi>ALExander</hi> for his great Conqueſts called the Great? and it is to be ſuppoſed, that if he had dranke no worſe drink then <hi>Ale,</hi> he had not been poyſoned in <hi>Babylon.</hi>
+               <pb n="7" facs="tcp:169499:3"/>There was alſo <hi>ALExander Severns,</hi> a Grave Phyloſopher, a good and mighty Romane Emperour; and in memory of <hi>ALExander,</hi> there are many famous Cities named <hi>ALEx<g ref="char:EOLhyphen"/>andria,</hi> one in Aegypt, which the great <hi>ALExander</hi> cauſed to be begun and finiſhed in 18 dayes, although it was 6 miles (within the Walls) about.</p>
+            <p>
+               <hi>Alaricus,</hi> a Potent and conquering King of the <hi>Gothes,</hi> in the yeare 408. ſack'd the City of Rome, and burnt it to the ground: and <hi>Alcibiades</hi> a valiant Noble man of Athens, of the Race and linage of Great <hi>Ajax Telamon,</hi> atcheived many great exploits with ſucceſſe and victory, to the Honour and profit of the Athenians; yet (for ſome ſmall faults) they ingratefully baniſhed him, and in <hi>Frigia</hi> his head was ſtook off.</p>
+            <p>Two Grecian Emperours of Conſtantinople, their names were <hi>ALExius</hi> and <hi>Caſſandra</hi> (the Siſter of the Worthy <hi>Hoctor</hi> and Daughter to King <hi>Priam</hi>) was called <hi>ALExan<g ref="char:EOLhyphen"/>dra,</hi> becauſe that by the Vertue of <hi>Ale</hi> ſhe was inſpired with the gift of Prophecying of ſeverall ſorts of truths; but her evill Fate, and the Trojans ill luck was, that ſhe never was believed, though ſhe alwayes Prophecyed truly. Alſo there were divers Saxon Kings named <hi>Ala:</hi> and <hi>Aladine</hi> was a common name to the Sarazen Kings and Princes. <hi>Al<g ref="char:EOLhyphen"/>bumazer</hi> a learned Arabian Magitian, was (by his owne Re<g ref="char:EOLhyphen"/>port) much forwarded in his skill and knowledge of Aſtrolo<g ref="char:EOLhyphen"/>gy by the operation of <hi>Ale</hi> of his owne Brewing, the Re<g ref="char:EOLhyphen"/>ceipt whereof he had from <hi>Alphonſus</hi> a King of Naples, and Sicilia; beſides, <hi>Ale</hi> doth infuſe ſuch vigour and valour in<g ref="char:EOLhyphen"/>to men of the ſword, that as the Hiſtory of <hi>Barbary</hi> (or <hi>Mauritania</hi>) Relates, ten Tuns of <hi>Ale</hi> was ſent from a Conſull of <hi>ALEppo</hi> to <hi>Sebaſtian,</hi> King of <hi>Portugall</hi> at the
+<pb n="8" facs="tcp:169499:4"/>Battle of <hi>Alcaſor,</hi> which <hi>Ale</hi> made them fight ſo couragiouſ<g ref="char:EOLhyphen"/>ly, that 3 Kings were ſlaine that day in the field, namely, <hi>Se<g ref="char:EOLhyphen"/>baſtian</hi> of <hi>Portug ALE, Mulley ALEt,</hi> King of <hi>Feſſe,</hi> and one more, which I omit, becauſe I have forgot his name; but I remember our brave Engliſh <hi>Stukeley</hi> was killed then, and there; and he was partly a King, for the Pope had gi<g ref="char:EOLhyphen"/>ven him the Kingdome of <hi>Ireland,</hi> and the troath is, that <hi>Stukeley</hi> wanted but two ſmall trifles of the full inheritance of it, which was only poſſeſſion and Coronation.</p>
+            <p>
+               <hi>Bacchus,</hi> who is likewiſe named <hi>Liber,</hi> which is frank, free, merry, and at liberty; hee was alſo called <hi>Liber Pater,</hi> which is a free liberall Father; hee was the firſt inventer and Brewer of <hi>Ale,</hi> for which hee is named <hi>Alyſius,</hi> by ma<g ref="char:EOLhyphen"/>ny Grave and Learned Writers, as in Biſhop <hi>Coopers</hi> Dictio<g ref="char:EOLhyphen"/>nary, and others, and it is unqueſtionable that <hi>Bacchus</hi> was honoured as a God, amongſt the Ancient Heathen, for his ad<g ref="char:EOLhyphen"/>mirable Invention for Potable drinkes; of which ALE was then in his time, to this time, and ſhall bee in after times, the chiefeſt.</p>
+            <p>ALE is of that Venerable, and Reverend eſteeme, that the moſt Worthy, Wiſeſt, and Wealthieſt Senators are called Al<g ref="char:EOLhyphen"/>dermen; for there is Sage ALE, and to bee Sage, is to bee Grave and Wiſe; and by drinking Sage ALE, the Wiſe men of Greece were called the ſeven Sages.</p>
+            <p>From this ALE beloved, all beloved ALE there are many Vertues have had their Originall; Charity is a Vertue, and though in theſe times ſhee is almoſt dead with cold ſhee hath taken againſt her will; yet as in Reference from or ALuſion to ALE, ALmes are the fruits of Charity, and therefore all great Kings and Princes doe maintaine (for the diſtribution of their ALmes) ſome Grave, Reverend Perſon who hath the
+<pb n="9" facs="tcp:169499:4"/>Office and Title of the Kings (or Queenes) ALmoner.</p>
+            <p>Moreover, ALE (taken to the purpoſe will ALEvate and lift up the ſpirits with ALacrity, <hi>ALias</hi> Mirth, <hi>ALias</hi> Courage, <hi>ALias</hi> Exhilleration and Jocundity.</p>
+            <p>The foundation and invention of the myſticall Art of AL<g ref="char:EOLhyphen"/>cumy, was from the force and fume of ALE: Can it bee i<g ref="char:EOLhyphen"/>magined that ſo many Grave and Learned men have laboured in vaine ſo many Yeares and Ages, with ſuch exceſſive and infinite charge, but that they have found or know where to have the Rich, Rare, Inviſible Philoſophers (or ALEoſophers) Stone; ſome of them with ALaborate paines, and ſome pretty coſt, have attained ſo much skill and knowledge, that they have turned Land into Silver, and all into ſmoake and <hi>fume,</hi> and with as much Iron and Braſſe as would furniſh a houſe, they have made a piece of Gold as big as a lowſe. But to returne to my Text, ALE; a mad wag, in a merry Song, doth affirme that ALE is not onely a Moover, Exciter, and Inſtigator to Arts and Sciences, but alſo that ALE of it ſelfe and in it ſelfe, is an Alcumiſt; as for example.</p>
+            <q>
+               <l>It will turns your gold to ſilver wan,</l>
+               <l>And your ſilver into Braſſe.</l>
+               <l>A Taylor it will make a man,</l>
+               <l>And a man it will make an Aſſe.</l>
+            </q>
+            <p>I muſt acknowledge that there are many and divers ſorts of drinks of great Antiquity and uſe in this Iſland, as <hi>Syder, Perry, Matheglin, Mead, Braggot, Pomperkin, &amp;c.</hi> Theſe are all Native and naturall amongſt us, of whom I will ſay little, becauſe their uſe is not of that Amplitude or uni<g ref="char:EOLhyphen"/>verſallity as ALE is.</p>
+            <pb n="10" facs="tcp:169499:5"/>
+            <p>Firſt, <hi>Syder</hi> is made of <hi>Apples,</hi> and held to bee moſt An<g ref="char:EOLhyphen"/>cient, and that CAINE (having learned of his Mother EVE) did practiſe it when hee was a Vagabond, and got a great eſtate by it. My Country <hi>(Gloceſter ſhire)</hi> is moſt plentifully ſtored with it; when it is new it is Laxative, and being old it muſt bee ſugred, and a skillfull Vintner can make it paſſe for White Wine, or Clarret, with a daſh of red <hi>Perry;</hi> the Ancient Writers cannot agree, from whence it had its origi<g ref="char:EOLhyphen"/>nall, ſome will derive it from <hi>Perſepolis</hi> in <hi>Perſia,</hi> others from <hi>Perue</hi> in <hi>America,</hi> one fetches the Pedigree from <hi>Pe<g ref="char:EOLhyphen"/>riander,</hi> (one of the <hi>Grecian</hi> Sages) but my opinion is, that it was invented by one <hi>Parry</hi> a Welſhman, a couſin German to <hi>Owen Tuedor,</hi> (of the Linage of the Emperour <hi>Pertinax,</hi> and kinſman to <hi>Cadwallador Magnus,</hi> the Epilogicall King of the <hi>Cambria</hi> Brittaines) howſoever <hi>Worceſter</hi> ſhire is now the Fountaine and Magazine of <hi>Perry,</hi> it is delicious in the pallate, and in ſome places and conſtitutions it is very opera<g ref="char:EOLhyphen"/>tive to qualifie drought, and quench thirſt.</p>
+            <p>
+               <hi>Matheglin,</hi> (as it is related in the Hiſtory of <hi>Monmouth</hi>) was firſt made in a fruitful Vally at the foot of <hi>Penmenmaure,</hi> and (in the Brittiſh Greeke) a Vally is called a <hi>Gli<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne;</hi> in that <hi>Gli<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne</hi> or Vally then inhabited one <hi>Mathew,</hi> who was called <hi>Mathew</hi> of the <hi>Gli<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne,</hi> this <hi>Mathew</hi> had many ſwarmes of Bees (and brethren) you know Bees make Hony: This Hony of the <hi>Glinne,</hi> with the induſtry of this <hi>Mathew,</hi> was firſt invented, and it ſtill doth beare the Authours name <hi>Ma<g ref="char:EOLhyphen"/>thoglin;</hi> it is purgative, by reaſon of its melioration, it eaſes obſtructions, it expells <hi>tremor cordis,</hi> it provokes dormoſity, or ſleepe<g ref="char:punc">▪</g> it is (for the moſt part) confined to the principalli<g ref="char:EOLhyphen"/>ty (or 13. Cantons) and in thoſe famous Territories it is e<g ref="char:EOLhyphen"/>quivalent with Muskadell.</p>
+            <pb n="11" facs="tcp:169499:5"/>
+            <p>
+               <hi>Mead,</hi> came from the <hi>Meades</hi> and <hi>Perſiant,</hi> and though inferiour to <hi>Matheglin,</hi> yet it is much like it in taſte and ope<g ref="char:EOLhyphen"/>ration.</p>
+            <p>
+               <hi>Braggot,</hi> is not of any Ancient ſtanding, it is an inflaming kinde of tap-laſh, made of ſundry Spices, being hot and dry in the third degree, it is good againſt cold and moiſt in the ſe<g ref="char:EOLhyphen"/>cond; the Originall and Authour of it is unknowne.</p>
+            <p>
+               <hi>Pomperkin,</hi> ſome derive it from <hi>Pomerania,</hi> (a Dukedome in high <hi>Almaine</hi>) others from <hi>Pompey</hi> the Great; but it is not probable that ſo great a Spirit was the Inventer of ſo ſmal and inconſiderable a drinke; it is made of Apples, which are ſqueezed and preſſed with water put amongſt, it is a poore conditioned confection, and tis thought that <hi>Perkin Warbeck</hi> was the Authour of it, in his Rebellion againſt K. <hi>Hon.</hi> the 7.</p>
+            <p>
+               <hi>Beere,</hi> is a Dutch Booriſh Liquor, a thing not knowne in <hi>England,</hi> till of late dayes an Alien to our Nation, till ſuch time as Hops and Hereſies came amongſt us, it is a ſawcy in<g ref="char:EOLhyphen"/>truder into this Land, and its ſold by uſurpation; for the houſes that doe ſell Beere onely, are nicknamed <hi>Ale houſes;</hi> marke beloved, an <hi>Ale-houſe</hi> is never called a <hi>Beere-houſe,</hi> but a <hi>Beere-houſe</hi> would have but ſmall cuſtome, if it did not falſly carry the name of an <hi>Ale-houſe;</hi> alſo it is common to ſay a <hi>Stand of Ale,</hi> it is not onely a <hi>Stand,</hi> but it will make a man underſtand, or ſtand under; but <hi>Beere</hi> is often called a Hogſhead, which all rationall men doe know is but a ſwi<g ref="char:EOLhyphen"/>niſh expreſſion: But to returne to my Text, ALE, from whence I have digreſſed, and too much made uſe of your pa<g ref="char:EOLhyphen"/>tience.</p>
+            <p>It is paſt mans underſtanding to conceive the admirable flowing and overflowing Innundation of ALoquence that Rhetorickally runs from the trowling tongue of a conſtant
+<pb n="12" facs="tcp:169499:6"/>ALE-drinker: he will ſpeake ALEgories, ſo myſtically ſen<g ref="char:EOLhyphen"/>tentious, that the wiſeſt Bachan ALian Wine-bibber can ne<g ref="char:EOLhyphen"/>ver comprehend or underſtand literally. ALE will make a man impartiall in his knowledge; for he that is quick and nimble in his ALE, will not know his ALiance from ALiens; for if you note the grave actions of a man in his ALE, how he will winke and nod upon you with grave and diſcreet poſtures; marke him when he holds up his finger, and turnes up his <hi>ALbum Oculi,</hi> (the white of the Eye:) then is his judgement <hi>Ales,</hi> quick, or ſwift, and his tongue is <hi>Ala,</hi> a birds wing, and his whole ſelfe is <hi>Alius nemo,</hi> or no man ſuch, and then may he be juſtly eſteemed to be no man of this world, but that he is mounted and ALEvated to an ALtitude higher then the ALpes; then will he talke of Re<g ref="char:EOLhyphen"/>ligion beyond beliefe, interpret Scripture beyond all ſenſe, and ſhew you points of the Law above all the reaſon that can be ALEged. <hi>Matheo ALEman</hi> by the vertue and inſpi<g ref="char:EOLhyphen"/>ration of the firſt Sylable of his ſirname, ALE, did write that well compoſed Booke, and moſt excellent fancy of <hi>Guzman de ALfarach,</hi> or <hi>The Spaniſh Rogue.</hi>
+            </p>
+            <p>I ſhould be endleſſe, and ſpeake much to no end, if I ſhould repeat all the good and vertuous words which doe begin with ALE, as ALEgiance was ALowed for a Vertue in the dayes of <hi>Yore,</hi> and it is ſo yet in France, Spaine, and in other places; for which cauſes of tranquility and plenty, which former times afforded, our Reverend and Wiſe Anceſtors gave them the name of ALcion dayes, as faire, cleare, and merry; for the Bird called <hi>Alcion</hi> or <hi>Halcion,</hi> or Kings Fi<g ref="char:EOLhyphen"/>ſher, doth never ſhew her ſelfe, or is ſeldome ſeene in foule tempeſtious dayes, or ſtormy weather. And chearfull times of the Heavenly Sunſhine of Peace and calmneſſe were a long
+<pb n="13" facs="tcp:169499:6"/>time the undeſerved bleſſings which our Engliſh Edon en<g ref="char:EOLhyphen"/>joyed: then one friend, or one neighbour, or more, did e<g ref="char:EOLhyphen"/>ſteem a Pot of ALE for a better Companion in Company, then of ten Pot Companions that delight to be drunk, and do or ſtudy miſchiefe.</p>
+            <p>Beſides all this, beloved, the word <hi>ALEbria</hi> is in our tranſlation, a nouriſhing, and the word <hi>ALiment</hi> is nouriſh<g ref="char:EOLhyphen"/>ment, or preſerving, and what is more approved for the nou<g ref="char:EOLhyphen"/>riſhing and preſerving of ſick or aged People, then ALE? It was wiſely and truely ſaid, that Wine makes the heart of man glad, but (not to be prophane) if it be conſidered by whom, and when, and where thoſe words were ſpoken; it is plaine and evident, that though the words are true and un<g ref="char:EOLhyphen"/>alterable, yet the perſon that ſpake them is gone, and ga<g ref="char:EOLhyphen"/>thered to his Fathers in reſt and happineſſe, the time when is much altred, and the place where moſt barbarouſly changed: firſt they were ſpoken by a King, and a Prophet, who could ſpeake nothing but truth; ſecondly, thoſe words were ut<g ref="char:EOLhyphen"/>tered in a time, when plain honeſt dealing was uſed between man and man, without deceit or equivocation; and thirdly, they were ſpoken in the City of <hi>Jeruſalem,</hi> the greateſt and moſt famous Metropolis of the world at that time.</p>
+            <p>It is to be more then conjectured, that there was not then in that great City (or ſcarce any where) to be found one craf<g ref="char:EOLhyphen"/>ty Wine Merchant, one juggling Cooper, or one ſophiſtica<g ref="char:EOLhyphen"/>ting Vintener: that Wine was the pure and comfortable Juice of the Grape, without any mingle mangle, blending, balderdaſhing commixtion, that Wine would glad the heart of man indeed; and he that will fetch me a quart of that, ſhall have twelve pence, and thanks for his paine: But moſt of our Wines now a dayes doe not glad, but mad the heart of
+<pb n="14" facs="tcp:169499:7"/>man, as by dayly and lamentable experience we perceive by the frequent quarrelling, ſighting, wounding, killing, and murdering, which happens by the exceſſive abuſe of abuſed fuming Wines, and intexicated braines; of all which, ALE (moſt vertuous ALE) may plead, not Guilty.</p>
+            <p>We have many good Townes in England, whoſe names are derived from ALE, as ALEsbury, ſo called becauſe of the ſtrong ALE which was brewed there, Nut brown ALE, as browne as a berry, and there the firſt Cawdles and Alebe<g ref="char:EOLhyphen"/>ries were invented for the comfort and reſtoratives of old or ſick folks, or women that lay in.</p>
+            <p>The ancienteſt Records of the famous Towne of <hi>Abing<g ref="char:EOLhyphen"/>ton</hi> in <hi>Barkeſhire</hi> doe teſtifie, that the old name of it was ALEBENDONA, (and according to the old appellation) it is to this day, ſeldome or never unfurniſhed with moſt P<g ref="char:EOLhyphen"/>table, Potent, high and mighty ALE. Sanbich, Darby, Do<g ref="char:EOLhyphen"/>ver, Canterbury, Northdowne, (but eſpecially Windſor) are Townes and places famous for brewing of this excellent Li<g ref="char:EOLhyphen"/>quor.</p>
+            <p>There are Antiquaries that doe more then ſuppoſe, that <hi>Hercules</hi> had never atchieved or accompliſhed his twelve la<g ref="char:EOLhyphen"/>bors, but by the Vertue and Vigour of ALE, whereby hee vanquiſhed Giants, Monſters, Dragons; for which Con<g ref="char:EOLhyphen"/>queſts and Victories (for the perpetuall honour of ALE) he was called <hi>ALcides.</hi>
+            </p>
+            <p>Alſo there are and have beene many good Knights and Gentlemen, with others of great worth and honour in England, whoſe names began with ALE, as Sir <hi>ALEn Per<g ref="char:EOLhyphen"/>cy</hi> Sir <hi>ALEn Apſley,</hi> the Worſhipfull Knights, and Gentry of the Families of the <hi>ALeffs,</hi> and <hi>ALEworths,</hi> or the <hi>AL<g ref="char:EOLhyphen"/>thams, ALEſops, ALEas,</hi> &amp;c. with the moſt famous Ma<g ref="char:EOLhyphen"/>ſter
+<pb n="15" facs="tcp:169499:7"/>
+               <hi>Edward ALEn</hi> (our ever to be remembred <hi>Roſcius,</hi> and renowned Stage Actor) he Acted an excellent part and piece of Charity in his life time, in founding and furniſhing a neat and comely Colledge at <hi>Dulledge</hi> in <hi>Surrey,</hi> three miles from <hi>London,</hi> for the perpetuall reliefe of poore aged people, and a Free Schoole for the education of youth: hee got not his e<g ref="char:EOLhyphen"/>ſtate by <hi>Totos dies potare,</hi> by ſitting whole dayes drinking, he had wiſedome and diſcretion to know the right uſe, and a<g ref="char:EOLhyphen"/>void the wrong abuſe of ALE.</p>
+            <p>For ALE is an enemy to idleneſſe, it will worke and bee working in the braine as well as in the Barrell; if it be abu<g ref="char:EOLhyphen"/>ſed by any man, it will trip up his heeles, and give him either a faire or a fowle fall, if hee bee the ſtrongeſt, ſtowteſt, and skilfulleſt Wraſtler either in Cornwall or Chriſtendome.</p>
+            <p>But if ALE bee moderately, mildly, and friendly dealt withall, it will appeaſe, qualifie, mitigate, and quench all ſtriffe and contention, it will lay anger aſleepe, and give a furious man or woman a gentle Nap, and therefore it was rightly called Nappy ALE by our Learned and Reverend Forefathers.</p>
+            <p>Beſides it is very medicinable, (as the beſt Phyſitians doe affirme) for Beere is ſeldome uſed or applyed to any inward or outward maladies, except ſometimes it bee warmed with a little Butter to waſh the galled feete, or toes of a weary Traveller; but you ſhall never know or heare of a uſuall drinker of ALE, to bee troubled with the Hippocondra, with Hippocondragacall obſtructions or convulſions, nor are they vexed (as others are) with ſeverall paines of ſundry ſorts of Gowts, ſuch as are the <hi>Gon<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gra, P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dogra, Chirogra,</hi> and the lame Hip-halting <hi>Sciatica,</hi> or with the intollerable griefe of the Stone in the Reines, Kidneys, or Bladder; for an expe<g ref="char:EOLhyphen"/>rimentall
+<pb n="16" facs="tcp:169499:8"/>proofe whereof, a Reverend Grave Judge dyed lately, who all his life time was a hater of ALE, hee being perpetually or continually vexed with the tormenting pain of the Stone, and when hee was deceaſed, his body was ope<g ref="char:EOLhyphen"/>ned, where in his Bladder was found a Stone as bigge as a Turkies Egge, which the skillfull Phyſitians and Chyrurgians did put into a Baſen of ALE, and in a few houres the ALE did diſſolve the ſayd Stone to ſmall Gravell. Take this into your conſiderations all you ignorant haters of ALE.</p>
+            <p>For, are not your eyes opened, your mindes illuminated, your underſtandings enlightned, and all your ſpirits illuſtra<g ref="char:EOLhyphen"/>ted with gratefull Capacities? As to remember the benefit of health which ALE hath univerſally beene the monumen<g ref="char:EOLhyphen"/>tall meanes to produce and propagate to our Nation, within this three or foure yeares: Note but the great ALteration in the weekly Bills of mortallity, and you will finde by true obſervation, that French Wines being prohibited, and Beere (as the Proverbe ſaith) is downe the winde, ALE being in ſuch deſerved requeſt, that for one flaggon of Beere that is dranke, foure pots of ALE are acceptably taken, whereby Phyſitians have not beene ſo much imployed, or Church<g ref="char:EOLhyphen"/>yards ſo fat as formerly they were wont to bee when ALE was diſpiſed, flighted, and neglected: therefore I ſay, let as many as doe love the preſervation of their <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ves and healths, let them drinke ALE, and alſo let ALE be their drinke.</p>
+            <p>Moreover, ALE is melodious humonically muſiquALE, for it puts men into Quavers, Semiquavers, Minoms, Trou<g ref="char:EOLhyphen"/>bles, (Treables I ſhould ſay) Tenors, Counter-Tenors, Be<gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>, and more then ſol, fa, ut, &amp;c. for ELA is an Anagram of ALE, and ELA is the ALdeboron, or higheſt Note of Mu<g ref="char:EOLhyphen"/>ſick, either in winde Inſtruments, ſtrung Inſtruments, or
+<pb n="17" facs="tcp:169499:8"/>Voyces; and truely it would doe a deafe body much good to heare the ſtrange Tones, Tunes, and Voyces, which do aſcend and mount above ELA three Notes and a halfe, from the merry Harmonious Songs, and Catches of men in their ALE; for ALE will make a man ſing Selengers Round, to the tune of Greene ſleeves, or Trenchmore, to the tune of Laugh and lye down.</p>
+            <p>Alſo ALE will make a man a Linguiſht, it will teach him the Greeke Tongue in two hours, if hee ply his ALE ALpha<g ref="char:EOLhyphen"/>bet diligently: <hi>Me vat a whee,</hi> and <hi>me pat a whee, ſhaugh at orum, probibi tibi, &amp;c.</hi> in <hi>Arabick, Cornutian, Diocriſian, Paracelſian,</hi> and <hi>Catharackt.</hi>
+            </p>
+            <p>Thus (beloved brethren) I have related unto you (in part) the Antiquity, the Honour, the Vertues, and ſeverall uſes of ALE, which uſes will bee profitable to you, and to all ſuch as will make good uſe of ALE.</p>
+            <p>The Application of all that I have ſayd, doth conſiſt onely in your ſelves; the Leſſon is ſhort, (as my Text was) it is no more then this, make conſtant Application of ALE to your ſelves, and apply your ſelves conſtantly to ALE. And ſo my loving Brothers, I hold it no offence to ſhut up all with a friendly concluſion, that before wee part company, wee may (for the better remembring of our Text, which was ALE) every man drink off his two Pots for Edification.</p>
+            <closer>
+               <dateline>From my houſe at the ſigne of the Poets Head in Phoenix Alley, neare the Covent Garden, or the Globe Tavern, nigh to the midſt of Long Aker, where <hi>ALE</hi> is my ALiment and Element.</dateline>
+            </closer>
+            <trailer>For your better Recreation heere followeth ſome few Lines in praiſe of ALE, written in merrier Times, by a moſt Learned Authour.</trailer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:169499:9"/>
+            <pb n="19" facs="tcp:169499:9"/>
+            <head>THE EXALE-TATION <hi>OF</hi> ALE,. The ancient Liquor of this REALME. OR, A Cleare Definition of its Efficatious operation in ſeverall <hi>Pa<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es, Arts,</hi> and <hi>Profeſſions.</hi>
+            </head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">N</seg>Ot drunken nor ſober, but neighbour to both,</l>
+               <l>I met with a friend in <hi>Aleſ-bury</hi> Vale;</l>
+               <l>He ſaw by my face, that I was in the caſe</l>
+               <l>To ſpeak no great harm of a <hi>Pot of good Ale.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Then did he me greet, and ſayd ſince we meet,</l>
+               <l>(And he put me in minde of the name of the Dale)</l>
+               <l>For <hi>Ales-bury's</hi> ſake, ſome paines I would take,</l>
+               <l>And not <hi>bury</hi> the praiſe of a Pot of good <hi>Ale.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The more to procure me, then he did adjure me,</l>
+               <l>If the <hi>Ale</hi> I dranke laſt were nappy and ſtale,</l>
+               <l>To do it its right, and ſtir up my ſpri'te,</l>
+               <l>And fall to commend a &amp;c.</l>
+            </lg>
+            <lg>
+               <pb n="20" facs="tcp:169499:10"/>
+               <l>Quoth I, To commend it I dare not begin,</l>
+               <l>Leſt therein my credit might happen to faile;</l>
+               <l>For many men now doe count it a ſin,</l>
+               <l>But once to looke toward a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Yet I care not a pin, for I ſee no ſuch ſin,</l>
+               <l>Nor any thing elſe my courage to quail:</l>
+               <l>For this we do finde, that take it in kinde,</l>
+               <l>Much Virtue there is in a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>And I meane not the taſte, though thereby much grac't,</l>
+               <l>Nor the <hi>Merry-go-down</hi> without pull or hale,</l>
+               <l>Perfuming the throat when the ſtomack's aflote,</l>
+               <l>With the fragrant ſweet ſcent of a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Nor yet the delight that comes to the ſight,</l>
+               <l>To ſee how it flowers and mantles in graile,</l>
+               <l>As green as a Leek, with a ſmile in the cheek,</l>
+               <l>The true orient colour of a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>But I meane the <hi>Mind,</hi> and the good it doth find;</l>
+               <l>Not onely the <hi>Body</hi> ſo feeble and fraile:</l>
+               <l>For <hi>Body</hi> and <hi>Soule</hi> may bleſſe the Black-bowle,</l>
+               <l>Since both are beholden to a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>For when <hi>heavineſſe</hi> the mind doth oppreſſe,</l>
+               <l>And <hi>ſorrow</hi> and <hi>griefe</hi> the heart do aſſaile,</l>
+               <l>No remedy quicker, than to take off your Liquor,</l>
+               <l>And to waſh away <hi>Cares</hi> with a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Widdow</hi> that buried her husband of late</l>
+               <l>Will ſoone have forgotten to weep and to waile,</l>
+               <pb n="21" facs="tcp:169499:10"/>
+               <l>And think every day twain, till ſhe marry again,</l>
+               <l>If ſhe read the Contents of a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>It is like a <hi>belly-blaſt</hi> to a <hi>cold heart,</hi>
+               </l>
+               <l>And warms and ingenders the <hi>ſpirits vitall,</hi>
+               </l>
+               <l>To keep them from domage, all spirites owe their homage</l>
+               <l>To the <hi>Sp'rite of the Burtery</hi> a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>And down to the <hi>legs</hi> the virtue doth goe,</l>
+               <l>And to a bad <hi>Foot-man</hi> is as good as a <hi>ſaile,</hi>
+               </l>
+               <l>When it fills the veins and makes light the brains,</l>
+               <l>No <hi>Lackey</hi> ſo nimble as a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Naked</hi> complains not for want of a Coat,</l>
+               <l>Nor on the cold weather will once turne his taile;</l>
+               <l>All the way as he goes, he cuts the wind with his noſe,</l>
+               <l>If he be but well wrapt in a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>The hungry man takes no thought for his meat,</l>
+               <l>Though his ſtomack would brook a <hi>ten-penny</hi> naile;</l>
+               <l>He quite forgets hunger, thinks on it no longer,</l>
+               <l>If he touch but the sparks of a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Poor man</hi> will praiſe it, ſo hath he good cauſe,</l>
+               <l>That all the yeare eats neither <hi>partridge</hi> nor <hi>quaile,</hi>
+               </l>
+               <l>But ſets up his reſt, and makes up his feaſt</l>
+               <l>With a cruſt of <hi>brown bread</hi> and a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Shepherd,</hi> the <hi>Sower,</hi> the <hi>Threſher,</hi> the <hi>Mower,</hi>
+               </l>
+               <l>The one with his <hi>ſcyth,</hi> the other with his <hi>flail,</hi>
+               </l>
+               <l>Take them out by the poll, on the peril of my ſoul,</l>
+               <l>All will hold up their hands to a &amp;c.</l>
+            </lg>
+            <lg>
+               <pb n="22" facs="tcp:169499:11"/>
+               <l>The Soldier, the Saylor, the True man, the Tayler,</l>
+               <l>The Lawyer that Sels words by weight and by tale;</l>
+               <l>Take 'em all as they are, from the War to the Bar,</l>
+               <l>They all will approve of a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>All Religions and Nations, all Countreys and faſhions,</l>
+               <l>Rich or poore, Knave or Whore, dwarfiſh or tall,</l>
+               <l>High or low, this I know, all will bow, Ile avow,</l>
+               <l>To the high power of a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Sallamander,</hi> Brazier that baths in the fire,</l>
+               <l>Whilſt his Bellowes are blowing a bluſtering gale</l>
+               <l>Will ſhake off his full Kan, and ſweare each true <hi>Vulcan</hi>
+               </l>
+               <l>Will hazard his wits for a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>The Black-ſmith, whoſe bellowes all ſummer do blow,</l>
+               <l>With the fire in his face ſtill, without e're a Vaile,</l>
+               <l>Though his throat be full dry, he will tell you no lye,</l>
+               <l>But where you may be ſure of a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Who ever denies it, the Priſoners will praiſe it,</l>
+               <l>That beg at the Grate, and ly in the <hi>Goale:</hi>
+               </l>
+               <l>For, even in their <hi>Fetters,</hi> they thinke themſelves better</l>
+               <l>May they get but a two penny black pot of <hi>Ale.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>For though they be inclos'd in the Grate,</l>
+               <l>They'le ſing and be merry, and care for no Bale;</l>
+               <l>Nor for hunger, for cold, for fetters or fate,</l>
+               <l>The Comfort conſiſts in a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>The Begger whoſe portion is alwayes his prayers,</l>
+               <l>Not having a tatter to hang on his taile,</l>
+               <pb n="23" facs="tcp:169499:11"/>
+               <l>Is as rich in his rags, as the churle in his bags,</l>
+               <l>If he once but ſhakes hands with a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>It drives his poverty cleane out of minde,</l>
+               <l>Forgeting his <hi>brown-bread,</hi> his <hi>wallet,</hi> and <hi>maile,</hi>
+               </l>
+               <l>He walks in the houſe like a <hi>ſix-footed lowſe,</hi>
+               </l>
+               <l>If he once be enricht with a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>And he that doth <hi>dig</hi> in the <hi>ditches</hi> all day,</l>
+               <l>And wearies himſelfe quite at the <hi>Plough-taile,</hi>
+               </l>
+               <l>Will ſpeak no leſſe things, than of <hi>Queens</hi> and of Kings,</l>
+               <l>If he touch but the top of a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>'Tis like a whetſtone to a <hi>blunt wit,</hi>
+               </l>
+               <l>And makes a ſupply where Nature doth faile:</l>
+               <l>The dulleſt wit ſoon will look quite through the Moon,</l>
+               <l>If his temples be wet with a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Then DICK to his <hi>Dearling,</hi> full boldly dares ſpeak,</l>
+               <l>Though before ſilly fellow) his courage did quaile,</l>
+               <l>He gives her the <hi>ſmouch,</hi> with his hand on his pouch,</l>
+               <l>If he meet by the way with a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>And it makes the <hi>Carter</hi> a <hi>Courtier</hi> ſtraight-way;</l>
+               <l>With Rhetoricall terms he will tell his tale;</l>
+               <l>With <hi>Courteſies</hi> great ſtore, and his Cap up before</l>
+               <l>Being ſchool'd but a little with a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Old man,</hi> whoſe tongue wags faſter than his teeth,</l>
+               <l>(For old-age by nature doth drivel and drale)</l>
+               <l>Will frig and will fling, like a dog in a ſtring,</l>
+               <l>If he warme his cold bloud with a &amp;c.</l>
+            </lg>
+            <lg>
+               <pb n="24" facs="tcp:169499:12"/>
+               <l>And the good <hi>Old Clark,</hi> whoſe <hi>ſight</hi> waxeth dark,</l>
+               <l>And ever he thinks the Print is too ſmall:</l>
+               <l>He will ſee every Letter, and ſay Service better,</l>
+               <l>If he glaze but his eyes with a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Cheeks</hi> and the <hi>Jawes,</hi> to commend it hath cauſe,</l>
+               <l>For where they were late but even man and pale:</l>
+               <l>They will get them a colour, no <hi>Crimſon</hi> is fuller,</l>
+               <l>By the true dy and tincture of a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Mark her enemies, though they think themſelves wiſe,</l>
+               <l>How <hi>meager</hi> they look, with how low a wail:</l>
+               <l>How their cheeks do fall, without ſpirits at all,</l>
+               <l>That alien their minds from a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>And now that the grains do work in my brains,</l>
+               <l>Me thinks I were able to give by retaile,</l>
+               <l>Commodities ſtore, a dozen and more,</l>
+               <l>That flow to Mankind from a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>The <hi>MUSES</hi> would muſe, any ſhould it miſuſe;</l>
+               <l>For, it makes them to ſing like a <hi>Nightingale,</hi>
+               </l>
+               <l>With a lofty trim note, having waſhed their throat,</l>
+               <l>With the <hi>Caballine</hi> Spring of a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>And the <hi>Muſician</hi> of any condition,</l>
+               <l>It will make him reach to the top of his <hi>Scale:</hi>
+               </l>
+               <l>It will clear his pipes, and moiſten his lights,</l>
+               <l>If he drink <hi>alternatim</hi> a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Poet</hi> divine, that cannot reach Wine,</l>
+               <l>Becauſe that his mony doth many times fail;</l>
+               <pb n="25" facs="tcp:169499:12"/>
+               <l>Will hit on the Vein, to make a good ſtrein,</l>
+               <l>If he be but <hi>inſpired</hi> with a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>For <hi>Ballads ELDERTON</hi> never bad Peer,</l>
+               <l>How went his wit in them, with how mer<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y a gale;</l>
+               <l>And with all the ſails up, had he been at the cup,</l>
+               <l>And waſhed his beard with a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>All <hi>Writers</hi> or <hi>Rimers,</hi> for ſuch whoſe miſhap,</l>
+               <l>Is from <hi>Newgate</hi> up <hi>Houlbourn,</hi> to <hi>Tyburn</hi> to ſail;</l>
+               <l>Shall have ſuddain expreſſion of all their confeſſion,</l>
+               <l>If the Muſe be but dew'd with a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>And the power of it ſhows, no whit leſſe in <hi>Proſe,</hi>
+               </l>
+               <l>It will file one's Phraſe, and ſet forth his tale:</l>
+               <l>Fill him but a Boul, it will make his tongue troul,</l>
+               <l>For <hi>flowing ſpeech</hi> flows from a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>And <hi>Maſter Philoſopher,</hi> if he drink his part,</l>
+               <l>Will not trifle his time in the <hi>Husk</hi> or the <hi>Shale;</hi>
+               </l>
+               <l>But go to the <hi>Kernell</hi> by the depth of his Art,</l>
+               <l>To be found in the bottom of a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Give a <hi>Scholar</hi> of <hi>OXFORD</hi> a pot of <hi>Sixteens,</hi>
+               </l>
+               <l>And put him to prove that an <hi>Ape</hi> hath a <hi>tail:</hi>
+               </l>
+               <l>And ſixteen times better his Wit will be ſeen,</l>
+               <l>If you fetch him from <hi>Botley,</hi> a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Thus it helps <hi>Speech</hi> and <hi>Wit;</hi> And it hurts not a whit,</l>
+               <l>But rather doth further the <hi>Virtues Morale:</hi>
+               </l>
+               <l>Then think it not much, if a little I touch</l>
+               <l>The good moral parts of a &amp;c.</l>
+            </lg>
+            <lg>
+               <pb n="26" facs="tcp:169499:13"/>
+               <l>To the <hi>Church</hi> and <hi>Religion</hi> it is a good friend,</l>
+               <l>Or elſe our Forefathers their wiſdome did faile,</l>
+               <l>That at every mile, next to the <hi>Church</hi> ſtile,</l>
+               <l>Set a <hi>conſecrate houſe</hi> to a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>But now as they ſay, <hi>Beer</hi> beares it away;</l>
+               <l>The more is the pity, if Right might prevaile:</l>
+               <l>For with this ſame <hi>Beer,</hi> came up <hi>Hereſie</hi> here;</l>
+               <l>The old <hi>Catholique Drink</hi> is a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>This <hi>Beer</hi>'s but an upſtart from <hi>Dutchland</hi> here come,</l>
+               <l>Whoſe Credit with us ſometimes is but ſmall:</l>
+               <l>For in the Records of the Empire of <hi>Rome,</hi>
+               </l>
+               <l>The old <hi>Catholique Drink</hi> is a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>O! the ancient tales that my Grandam hath told,</l>
+               <l>How merry we have been in <hi>Parlour</hi> and <hi>Hall;</hi>
+               </l>
+               <l>How in Chriſtmas time, we would dance, ſing, and rime,</l>
+               <l>As if we were mad with a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Churches</hi> much owe, as we all do know;</l>
+               <l>For when they be drooping and ready to fall,</l>
+               <l>By a <hi>Whitſon</hi> or <hi>Church-Ale,</hi> up again they ſhall goe,</l>
+               <l>And owe their <hi>repairing</hi> to a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Truth</hi> will do it right, it brings <hi>Truth</hi> to light,</l>
+               <l>And many bad matters it helps to reveile:</l>
+               <l>For, they that will drinke, will speak what they think;</l>
+               <l>TOM <hi>tell-troath</hi> lies hid in a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>It is <hi>Juſtices</hi> friend, ſhe will it commend:</l>
+               <l>For, all is here ſerved by <hi>meaſure</hi> and <hi>tale:</hi>
+               </l>
+               <pb n="27" facs="tcp:169499:13"/>
+               <l>Now <hi>true-tale</hi> and <hi>good meaſure</hi> are <hi>Juſtices</hi> treaſure</l>
+               <l>And much to the praiſe of a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>And next I alledge, it is <hi>Fortitudes</hi> edge:</l>
+               <l>For a very Cow-herd, that ſhrinks like a Snaile,</l>
+               <l>Will ſwear and will ſwagger, and out goes his dagger,</l>
+               <l>If he be but arm'd with a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Yea, ALE hath her <hi>Knights</hi> and <hi>Squires</hi> of degree,</l>
+               <l>That never were Corſlet, nor yet ſhirt of mail,</l>
+               <l>But have fought their fights all, 'twixt the pot and the wall,</l>
+               <l>When once they were <hi>dubb'd</hi> with a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>And (ſure) it will make a man ſuddenly <hi>Wiſe,</hi>
+               </l>
+               <l>Er'e-while was ſcarce able to tell a right tale:</l>
+               <l>It will open his jaw, he will tell you the <hi>Law,</hi>
+               </l>
+               <l>As made a right <hi>Bencher</hi> of a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Or he that will make a <hi>bargain</hi> to gaine,</l>
+               <l>In <hi>buying</hi> or <hi>ſetting</hi> his goods forth to <hi>ſale,</hi>
+               </l>
+               <l>Muſt not plod in the mire, but ſit by the fire,</l>
+               <l>And ſeal up his Match with a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>But for <hi>Soberneſſe</hi> needs muſt I confeſſe,</l>
+               <l>The matter goes hard: and few doe prevaile</l>
+               <l>Not to goe too deep, but temper to keep;</l>
+               <l>Such is the <hi>Attractive</hi> of a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>But here's an amends, which will make all friends,</l>
+               <l>And ever doth tend to the beſt avail;</l>
+               <l>If you take it too deep, it will make you but ſleep;</l>
+               <l>So comes no great harm of a &amp;c.</l>
+            </lg>
+            <lg>
+               <pb n="28" facs="tcp:169499:14"/>
+               <l>If (re<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ling) they happen to fall to the ground,</l>
+               <l>The fall is not great they may hold by the Raile:</l>
+               <l>If into the water, they cannot be drown'd,</l>
+               <l>For that gift is given to a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>If drinking about they chance to fall out,</l>
+               <l>Feare not the <hi>Alarm,</hi> though fleſh be but frail,</l>
+               <l>It will prove but ſome blows, or at moſt a bloudy noſe,</l>
+               <l>And friends again ſtreight with a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>And <hi>Phyſick</hi> will favour ALE, as it is bound,</l>
+               <l>And be againſt <hi>Beer</hi> both tooth and nail:</l>
+               <l>They ſend up and down all over the Town,</l>
+               <l>To get for their Patient a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Their <hi>Ale-berries, Cawdles,</hi> and <hi>Poſſets</hi> each one,</l>
+               <l>And <hi>Sillabubs</hi> made at the Milking-pale,</l>
+               <l>Although they be many, <hi>Beer</hi> comes not in any,</l>
+               <l>But all are compos'd with a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>And in very deed, the <hi>Hop's</hi> but a weed,</l>
+               <l>Brought o're againſt Law, and here ſet to ſale:</l>
+               <l>Would the Law were renew'd, and no more <hi>Beer</hi> brew'd,</l>
+               <l>But all good men betake them to a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>The Law that will take it under her wing:</l>
+               <l>For at every <hi>Law-day,</hi> or <hi>Moot of the hale,</hi>
+               </l>
+               <l>One is ſworne to ſerve our <hi>Soveraign</hi> the KING,</l>
+               <l>In the ancient <hi>Office</hi> of a CONNER of ALE.</l>
+            </lg>
+            <lg>
+               <l>There's never a Lord of <hi>Mannor</hi> or of <hi>Town,</hi>
+               </l>
+               <l>By ſtrand or by land, by hill or by dale,</l>
+               <pb n="29" facs="tcp:169499:14"/>
+               <l>But thinks it a <hi>Franchiſe</hi> and a <hi>Flowr</hi> of the CROWN,</l>
+               <l>To hold the <hi>Aſſize</hi> of a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>And though there by <hi>writs,</hi> from the <hi>Courts Paramou<g ref="char:cmbAbbrStroke">̄</g>t,</hi>
+               </l>
+               <l>To ſtay the proceedings of the <hi>Cours Paravaile;</hi>
+               </l>
+               <l>
+                  <hi>Law</hi> favours it ſo, you may come, you may go,</l>
+               <l>There lies no <hi>Prohibition</hi> to a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>They talk much of <hi>State,</hi> both early and late,</l>
+               <l>But if <hi>Gaſcoign</hi> and <hi>Spain,</hi> their <hi>Wine</hi> ſhould but fail,</l>
+               <l>Noremedy then, with us <hi>Engliſhmen,</hi>
+               </l>
+               <l>But the <hi>State</hi> it muſt ſtand by a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>And they that ſit by it, are good men and quiet,</l>
+               <l>No dangerous <hi>Plotters</hi> in the Common-weal</l>
+               <l>Of <hi>Treaſon</hi> and <hi>Murther:</hi> for, they never go further,</l>
+               <l>Than to call for, and pay for a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>To the praiſe of CAMBRIVIUS that good <hi>Brittiſh King</hi>
+               </l>
+               <l>That deviſed for his Nation (by the <hi>Welſhmens tale</hi>)</l>
+               <l>Seventeen hundred years before CHRIST did spring,</l>
+               <l>The happy invention of a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>But he was a <hi>Paynim,</hi> and ALE then was rife,</l>
+               <l>Yet after CHRIST came and bid us all hail,</l>
+               <l>Saint DAVID tid never trink <hi>Peer</hi> in her life,</l>
+               <l>Put all <hi>Cwwrwwhibley</hi> a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>The <hi>North</hi> they will prayſe it, and prayſe it with paſſion,</l>
+               <l>Where every <hi>River</hi> gives name to a <hi>Dale:</hi>
+               </l>
+               <l>There men are yet living, that are of th' old faſhion,</l>
+               <l>No <hi>Nectar</hi> they know but a &amp;c.</l>
+            </lg>
+            <lg>
+               <pb n="30" facs="tcp:169499:15"/>
+               <l>The <hi>PICTS</hi> and the <hi>SCOTS,</hi> for ALE, were at lots,</l>
+               <l>So high was the skill, and ſo kept under ſeal:</l>
+               <l>The <hi>PICTS</hi> were undone, ſlain each mothers ſon,</l>
+               <l>For not teaching the <hi>SCOTS</hi> to make <hi>Hether Eale.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But hither or thither; it skils not much whether:</l>
+               <l>For drink muſt be had, men live not by <hi>Keal,</hi>
+               </l>
+               <l>Nor by <hi>Havor-bannocks,</hi> nor by <hi>Havor-jannocks,</hi>
+               </l>
+               <l>The thing the SCOTS live on is a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Now, if you will ſay it, I will not denay it,</l>
+               <l>That many a man it brings to his bale:</l>
+               <l>Yet what fairer end, can one wiſh to his friend,</l>
+               <l>Than to die by the dart of a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Yet, let not the innocent beare any blame,</l>
+               <l>It is their own doings to break o're the pale:</l>
+               <l>And neither the <hi>Mault</hi> nor the good Wife in fault,</l>
+               <l>If any be potted with a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>They tell whom it kills, but ſay not a word,</l>
+               <l>How many a man liveth both ſound and hale,</l>
+               <l>Though he drink no Beer any day in the yeare,</l>
+               <l>By the <hi>Radicall humour</hi> of a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>But, to ſpeak of <hi>Killing,</hi> that am I not willing;</l>
+               <l>For that, in a manner, were but to raile:</l>
+               <l>But Beer hath his name, cauſe it brings to the Buyer;</l>
+               <l>Therefore well-fare ſay I to a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Too many (I wis) with their deaths proved this;</l>
+               <l>And therefore if ancient Records do not faile)</l>
+               <pb n="31" facs="tcp:169499:15"/>
+               <l>He that firſt brew'd the <hi>Hop,</hi> was rewarded with a <hi>rope,</hi>
+               </l>
+               <l>And found his <hi>Beer</hi> far more bitter then ALE.</l>
+            </lg>
+            <lg>
+               <l>O ALE <hi>ab alendo</hi> thou <hi>Liquor</hi> of <hi>LIFE!</hi>
+               </l>
+               <l>That I had but a mouth as big as a <hi>Whale!</hi>
+               </l>
+               <l>For mine is too little to touch the leaſt tittle</l>
+               <l>That belongs to the prayſe of a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Thus (I trow) ſome <hi>Vertues</hi> I have marked you out,</l>
+               <l>And never a <hi>Vi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e</hi> in all this long t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aile,</l>
+               <l>But that after the <hi>Pot</hi> there complet<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a <hi>Shot,</hi>
+               </l>
+               <l>And thats thonly <hi>blot</hi> of a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>With that my friend ſaid<g ref="char:punc">▪</g> That <hi>Blot</hi> will I bear,</l>
+               <l>You have done very well, it is time to ſtrike ſaile;</l>
+               <l>Wee'l have ſix pots more, though I die on the ſcore,</l>
+               <l>To make all this good of a <hi>Pot of good ALE.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
